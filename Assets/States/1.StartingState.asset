@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d6c439becb265d4e89f6fe8d82e5e1a, type: 3}
+  m_Name: 1.StartingState
+  m_EditorClassIdentifier: 
+  stateText: 'Welcome to the "software engineering career paths" game. The game has
+    been designed for those that want to choose a career path in software engineering
+    but are a little uncertain about the sub-domain they want to work in
+
+
+    We
+    are here to help!
+
+
+    Throughout the game, you will be given two choices. You
+    have to choose either one of them by pressing the "1" key or the "2" key on the
+    keyboard
+
+
+    1. Let''s Play!'
+  nextStatesArray:
+  - {fileID: 11400000, guid: bc0bffa41fae9be4792e5f88f8753e22, type: 2}

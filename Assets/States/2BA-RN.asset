@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d6c439becb265d4e89f6fe8d82e5e1a, type: 3}
+  m_Name: 2BA-RN
+  m_EditorClassIdentifier: 
+  stateText: 'Seems like your interest lies in React Native!
+
+
+    For becoming a
+    good React-Native developer, you need to learn JavaScript and ReactJS. Also,
+    you should have good ability to read documentation. Official docs is the best
+    place to learn, but bear this in mind that they might not be the best place to
+    get started with React-Native
+
+
+    Congratulations! You can now be a React Native
+    cross-platform developer
+
+
+    1. End'
+  nextStatesArray:
+  - {fileID: 11400000, guid: a7e34cb39fef3864db3322ee0895e27a, type: 2}

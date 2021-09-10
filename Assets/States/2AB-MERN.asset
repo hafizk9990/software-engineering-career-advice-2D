@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d6c439becb265d4e89f6fe8d82e5e1a, type: 3}
+  m_Name: 2AB-MERN
+  m_EditorClassIdentifier: 
+  stateText: "Seems like your interest lies in the MERN Stack! \n\nFor becoming a
+    MERN stack developer, you need to learn HTML, CSS, JavaScript, MongoDB, ExpressJS,
+    ReactJS, NodeJS and at least one front-end templating engine, like Jinja2 or
+    Handlebars (preferred)\n\nCongratulations! You can now be a MERN stack developer\n\n1.
+    End Game"
+  nextStatesArray:
+  - {fileID: 11400000, guid: a7e34cb39fef3864db3322ee0895e27a, type: 2}
